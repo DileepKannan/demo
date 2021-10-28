@@ -9,5 +9,5 @@ spring:
       naming:        implicit-strategy : org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
 
 server:
-  port: $PORT
+  port: 9000
 
